@@ -23,7 +23,7 @@ pip install xldr
 
 ### Ubuntu
 
-Talvez as bibliotecas sejam instaladas no python 2.7, caso não seja possível acessa-la com o interpretador python 3.6+, utilize os comandos abaixo:
+Talvez as bibliotecas sejam instaladas no python 2.7, caso não seja possível acessá-las com o interpretador python 3.6+, utilize os comandos abaixo:
 
 ```bash
 sudo apt-get install python3-pandas
