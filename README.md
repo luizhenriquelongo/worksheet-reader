@@ -41,6 +41,11 @@ Para utilizar o software, use o seguinte comando no terminal dentro da pasta ond
 ```bash
 python main.py 
 ```
+Nota: Por padrão, o arquivo a ser análisado no programa é "exemplo2.csv". Para alterá-lo, altere o nome do arquivo na seguinte linha dentro do arquivo main.py:
+
+```python
+fileName = 'exemplo2.csv'
+```
 
 ## Autor
 
